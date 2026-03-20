@@ -1,0 +1,6 @@
+IncomeGroup,total_customers,avg_income,avg_spend,avg_purchases,conversion_rate,total_conversions
+Upper-Mid,495,79102.75,1391.09,20.79,27.88,138
+High,13,176835.62,829.62,20.15,30.77,4
+Mid,648,60108.56,754.6,19.41,10.34,67
+Lower-Mid,690,39751.13,188.72,10.32,12.32,85
+Low,370,21477.18,72.18,7.36,10.54,39
