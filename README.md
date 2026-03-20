@@ -152,29 +152,6 @@ marketing-campaign-dashboard/
 2. Open in Power BI Desktop (free download)
 3. Explore all 3 pages with dynamic slicers
 
-### Run the Analysis
-```bash
-pip install pandas numpy matplotlib seaborn openpyxl
-jupyter notebook Marketing_Campaign_Dashboard.ipynb
-```
 
----
 
-## Dataset
 
-**Maven Marketing Campaign Dataset**  
-- 2,216 customer records  
-- 29 variables covering demographics, spend, channel purchases, and campaign responses  
-- Source: Kaggle
-
----
-
-## Tools & Technologies
-
-| Tool | Usage |
-|---|---|
-| Python (Pandas) | Data cleaning, feature engineering |
-| SQL (SQLite) | Data analysis, aggregation queries |
-| Power BI | 3-page interactive dashboard |
-| DAX | Conversion rate measure |
-| Matplotlib | Exploratory visualizations |
